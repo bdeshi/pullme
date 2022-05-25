@@ -1,2 +1,2 @@
 # pullme
-pushme-pullyou
+im pulled by [pushyou](../../../pushyou)
